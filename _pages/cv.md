@@ -13,6 +13,7 @@ Education
 ======
 ### Lehigh University (LU), Bethlehem, PA, USA
 * Ph.D in Civil & Environmental Engineering (CEE), December 2022 (expected)
+
 ### National Taiwan University (NTU), Taipei, Taiwan
 * M.S. in Bioenvironmental Systems Engineering (BSE), February 2019 
 * B.S. in Bioenvironmental Systems Engineering (BSE), June 2017
@@ -40,11 +41,6 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-### Under review
-  <ul>{% for post in site.under_review %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 <!---
