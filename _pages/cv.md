@@ -61,14 +61,15 @@ Service and leadership
 ======
 ### Professional Service
 * AGU, Water and Society Technical Committee, 2022-present
-* AGU, Hydrology Section Student Subcommittee, Professional Development 
-### Subcommittee co-chair, 2022-present
+* AGU, Hydrology Section Student Subcommittee, Professional Development Subcommittee co-chair, 2022-present
 * ASCE, EWRI, Environmental and Water Resources System (EWRS) Committee, 2021-present
+
 ### Lehigh University
 * CEE Department Representatives for the Graduate Students Recruitment Program, 2021-present
 * CEE Department Representatives for the Graduate Senate Meeting, 2021
 * Lehigh Graduate Open House CEE Representatives, 2021
 * Lehigh Mentor Collective, Mentor, 2021
+
 ### Ad Hoc Reviewer – Journals
 * Journal of Water Resources Planning and Management – ASCE
 
