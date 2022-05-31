@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Chung-Yi Lin's homepage"
 layout: splash
 permalink: /
 header:
@@ -7,7 +7,11 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/foo-bar-identity.jpg
   caption: "DD"
-excerpt: "Welcome to Chung-Yi Lin's homepage."
+  actions:
+    - label: "About me"
+      url: "/about/"
+excerpt: ""
+
 intro: 
   - excerpt: 'introduction. Centered with `type="center"`'
 feature_row:
@@ -56,8 +60,10 @@ feature_row4:
 
 {% include feature_row %}
 
+<!-->
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
+<-->
