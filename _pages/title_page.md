@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/foo-bar-identity.jpg
+  overlay_image: /images/bio-photo-cylin.jpg
   caption: "DD"
   actions:
     - label: "About me"
