@@ -6,7 +6,7 @@ excerpt: 'This paper is about an open-source Python package of hydrological mode
 date: 2022-12-2
 venue: 'Journal of Water Resources Planning and Management'
 paperurl: ''
-citation: '<b>Lin, C. Y.<\b>, Yang, Y. C. E., & Wi S. (2022, under review). HydroCNHS: A Python Package of Hydrological Model for Coupled Natural Human Systems, <i>Journal of Water Resources Planning and Management</i>.'
+citation: '<b>Lin, C. Y.</b>, Yang, Y. C. E., & Wi S. (2022, under review). HydroCNHS: A Python Package of Hydrological Model for Coupled Natural Human Systems, <i>Journal of Water Resources Planning and Management</i>.'
 ---
 This paper is currently under review.
 
