@@ -7,11 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: "https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_header.png?raw=true"
   caption: "DD"
-  actions:
-    - label: "About me"
-      url: "/about/"
-excerpt: ""
-
+excerpt: "The world is complex and we embrace it with passion and patient."
 intro: 
   - excerpt: 'introduction. Centered with `type="center"`'
 feature_row:
