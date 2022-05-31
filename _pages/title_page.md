@@ -10,19 +10,23 @@ excerpt: "The world is complex and we embrace it with passion and patient."
 feature_row:
   - image_path: https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_me.jpg?raw=true
     alt: "About me"
-    url: "https://philip928lin.github.io/about/"
     title: "[About me](https://philip928lin.github.io/about/)"
+    url: "https://philip928lin.github.io/about/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_research.jpg?raw=true
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Research"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://philip928lin.github.io/publications/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    excerpt: ""
   - image_path: https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_software.png?raw=true
     title: "Software"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "https://philip928lin.github.io/publications/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    excerpt: ""
 ---
 
 {% include feature_row id="intro" type="center" %}
