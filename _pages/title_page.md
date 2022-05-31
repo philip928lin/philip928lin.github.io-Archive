@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "/images/bio-photo-cylin.jpg"
+  overlay_image: "https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_header.png?raw=true"
   caption: "DD"
   actions:
     - label: "About me"
@@ -15,20 +15,20 @@ excerpt: ""
 intro: 
   - excerpt: 'introduction. Centered with `type="center"`'
 feature_row:
-  - image_path: https://github.com/philip928lin/philip928lin.github.io/blob/main/images/bio-photo-cylin.jpg?raw=true
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /images/bio-photo-cylin.jpg
+  - image_path: https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_me.jpg?raw=true
+    alt: "About me"
+    url: "https://philip928lin.github.io/about/"
+    title: "About me"
+  - image_path: https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_research.jpg?raw=true
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "Research"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "https://philip928lin.github.io/publications/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/bio-photo-cylin.jpg
-    title: "Placeholder 3"
+  - image_path: https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_software.png?raw=true
+    title: "Software"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
