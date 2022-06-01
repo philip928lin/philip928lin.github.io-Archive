@@ -24,8 +24,8 @@ feature_row:
     excerpt: "* Coupled natural-human systems\n* Uncertainty analysis\n* Cyber-physical risks assessment\n* Agent-based modeling"
   - image_path: https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_software.png?raw=true
     title: "Software"
-    url: "https://philip928lin.github.io/publications/"
-    btn_label: "Read More"
+    url: "https://github.com/philip928lin"
+    btn_label: "Github"
     btn_class: "btn--primary"
     excerpt: "* HydroCNHS\n* MultiWG\n* PyRAMID"
 ---
