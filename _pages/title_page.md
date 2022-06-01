@@ -21,10 +21,7 @@ feature_row:
     url: "https://philip928lin.github.io/publications/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    excerpt: "* Coupled natural-human systems
-    * Uncertainty analysis
-    * Cyber-physical risks assessment
-    * Agent-based modeling"
+    excerpt: "* Coupled natural-human systems\n* Uncertainty analysis\n* Cyber-physical risks assessment * Agent-based modeling"
   - image_path: https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_software.png?raw=true
     title: "Software"
     url: "https://philip928lin.github.io/publications/"
