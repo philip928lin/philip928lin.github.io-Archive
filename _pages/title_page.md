@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: "https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_header.png?raw=true"
-excerpt: "The world is complex and we embrace it with passion and patient."
+excerpt: "The world is complex but we embrace it with passion and patient."
 feature_row:
   - image_path: https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_me.jpg?raw=true
     alt: "About me"
