@@ -14,7 +14,7 @@ feature_row:
     url: "https://philip928lin.github.io/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    excerpt: "A Ph.D. Candidate at Lehigh University and is expected to graduate in Jan 2023."
+    excerpt: "A complex adaptive water system researcher."
   - image_path: https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_research.jpg?raw=true
     alt: "Research"
     title: "Research"

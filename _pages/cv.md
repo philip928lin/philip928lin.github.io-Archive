@@ -12,29 +12,31 @@ redirect_from:
 Education
 ======
 ### Lehigh University (LU), Bethlehem, PA, USA
-* Ph.D in Civil & Environmental Engineering (CEE), December 2022 (expected)
+* Ph.D in Civil & Environmental Engineering (CEE), January 2022
 
 ### National Taiwan University (NTU), Taipei, Taiwan
 * M.S. in Bioenvironmental Systems Engineering (BSE), February 2019 
 * B.S. in Bioenvironmental Systems Engineering (BSE), June 2017
 
-Employment
-======
-* Teaching Assistant, January 2022 – present
-  * CEE 222 Water Resources Engineering, LU
-* Research Assistant, September 2020 – December 2021
-  * Complex Adaptive Water Systems (CAWS) Lab., Department of CEE, LU
-* Teaching Assistant, February 2017 – June 2017, February 2018 – June 2018
-  * BSE 5071 Climate Change and Environmental Ecology, NTU
-* Teaching Assistant, September 2017 – January 2018
-  * BSE 5091 Environmental Systems Analysis, NTU
+Research experiences  
+======                                                    
+### Themes
 
-Research interests  
-======                                                 
-* Cyber-Physical Systems – IoT-based stormwater infrastructures, cyber-attacks, optimization
-* Coupled Natural-Human System – agent-based modeling, software design, uncertainty analysis
-* Water-Energy-Food Nexus – water allocation and crop yield trade-off, integrated system modeling  
-* Climate Risk Assessment – climate change, risk assessment framework
+##### Coupled Natural-Human System
+* Agent-based modeling, software development, uncertainty characterization
+
+##### Risk Assessment in Complex Adaptive Water Systems
+* Climate risks, food-water nexus, cyber-physical risks
+
+##### Cyber-Physical Systems & Infrastructure Resilience
+* IoT-based stormwater infrastructures, false data injection (cyber-attacks), optimization, control
+
+### Research Assistant    
+* Complex Adaptive Water Systems (CAWS) Lab., LU  Sep 2020 – Jan 2022
+
+### Intern      
+* Institute for Global Environmental Strategies (IGES), Hayama, Japan   Jun 2019 – Jul 2019
+* Microsoft Student Partner, Taipei, Taiwan Jun 2017 – Jun 2018
 
 
 Publications
@@ -60,16 +62,23 @@ Teaching
 Service and leadership
 ======
 ### Professional Service
-* AGU, Water and Society Technical Committee, 2022-present
-* AGU, Hydrology Section Student Subcommittee, Professional Development Subcommittee co-chair, 2022-present
+* AGU, Water and Society Technical Committee, Student Representatives, 2022-present
+* AGU, Hydrology Section Student Subcommittee, Professional Development Subcommittee co-chair, 2022 – present
 * ASCE, EWRI, Environmental and Water Resources System (EWRS) Committee, 2021-present
 
 ### Lehigh University
-* CEE Department Representatives for the Graduate Students Recruitment Program, 2021-present
+* CEE Department Representatives for the Graduate Students Recruitment Program, 2021 – present
 * CEE Department Representatives for the Graduate Senate Meeting, 2021
 * Lehigh Graduate Open House CEE Representatives, 2021
 * Lehigh Mentor Collective, Mentor, 2021
 
+### National Taiwan University
+* Charter President of Climate Action Club, NTU, Sep 2014 – Dec 2015
+
 ### Ad Hoc Reviewer – Journals
 * Journal of Water Resources Planning and Management – ASCE
+* Science of the Total Environment – ELSEVIER
+* Environmental Modeling & Software – ScienceDirect
+* Ecology & Society – Resilience Alliance
+
 
