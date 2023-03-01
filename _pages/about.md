@@ -5,4 +5,12 @@ excerpt: "About me"
 author_profile: true
 ---
 
-Dr. Chung-Yi Lin's research focuses on water resources management in complex adaptive water systems. More specifically, Chung-Yi adopted a two-way coupling technique to integrate a process-based hydrological model with human models represented by agent-based models. Then, he applied coupled models to explore the coevolution among natural and human systems. In addition, Chung-Yi developed open-source modeling software (e.g., HydroCNHS) and conducted uncertainty analysis to alleviate technical difficulties in modeling complex adaptive water systems and advance understanding of how coupled models could inform policy. Currently, Chung-Yi is evaluating the  compounding risks involving natural hazards and human interventions in IoT-based water systems (e.g., smart stormwater systems), which paves the way to establish a more holistic framework for integrating long-term planning and short-term responses to inform policy in complex adaptive water systems.
+One of Chung-Yi's main research applications is agricultural water allocation, where he investigates how human behavior influences water allocation decisions and their impacts on the environment. He has also studied sediment management, which is crucial in preventing soil erosion and reducing water quality impacts.
+
+In addition to his research, Chung-Yi has developed open-source modeling software, such as HydroCNHS, to facilitate modeling complex adaptive water systems. He has also conducted uncertainty analysis to identify sources of uncertainty in the models and improve their usability in terms of informing policy.
+
+Currently, Chung-Yi is working on community-based groundwater management using ABM. His research focuses on understanding how community behavior influences groundwater use and how management policies can be developed to promote sustainable groundwater use.
+
+Chung-Yi is also interested in IoT-based water systems, such as smart stormwater systems. He is developing smart control schema that quantifies cyber-physical risks and informs decision-making in water management.
+
+Overall, Chung-Yi's research aims to establish a more holistic framework for integrating long-term planning and short-term responses to inform policy in complex adaptive water systems. Through his work, he hopes to advance understanding of the interactions between natural and human systems and improve water resources management practices.
