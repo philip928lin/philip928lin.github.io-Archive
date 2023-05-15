@@ -14,14 +14,14 @@ feature_row:
     url: "https://philip928lin.github.io/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    excerpt: "A complex adaptive water system researcher."
+    excerpt: "A human-water systems researcher."
   - image_path: https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_research.jpg?raw=true
     alt: "Research"
     title: "Research"
     url: "https://philip928lin.github.io/publications/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    excerpt: "* Coupled natural-human systems\n* Uncertainty analysis\n* Cyber-physical risks assessment\n* Agent-based modeling"
+    excerpt: "* Coupled natural-human systems\n* Agent-based modeling\n* Uncertainty analysis\n* Cyber-physical risks assessment"
   - image_path: https://github.com/philip928lin/philip928lin.github.io/blob/main/images/title_software.png?raw=true
     title: "Software"
     url: "https://github.com/philip928lin"
