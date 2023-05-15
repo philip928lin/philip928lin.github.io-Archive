@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download full CV](https://github.com/philip928lin/philip928lin.github.io/raw/main/files/CV_Chung-Yi Lin - 2023.pdf)
 
 Education
 ======
 ### Lehigh University (LU), Bethlehem, PA, USA
-* Ph.D in Civil & Environmental Engineering (CEE), January 2022
+* Ph.D in Civil & Environmental Engineering (CEE), January 2023
 
 ### National Taiwan University (NTU), Taipei, Taiwan
 * M.S. in Bioenvironmental Systems Engineering (BSE), February 2019 
@@ -22,7 +23,7 @@ Research experiences
 ======                                                    
 ### Themes
 
-##### Coupled Natural-Human System
+##### Coupled Natural-Human Systems
 * Agent-based modeling, software development, uncertainty characterization
 
 ##### Risk Assessment in Complex Adaptive Water Systems
@@ -31,12 +32,15 @@ Research experiences
 ##### Cyber-Physical Systems & Infrastructure Resilience
 * IoT-based stormwater infrastructures, false data injection (cyber-attacks), optimization, control
 
+### Postdoctoral Associate  
+*  Marston’s Research Group, VT. Feb 2023 – Present
+
 ### Research Assistant    
-* Complex Adaptive Water Systems (CAWS) Lab., LU  Sep 2020 – Jan 2022
+* Complex Adaptive Water Systems (CAWS) Lab., LU. Sep 2020 – Jan 2022
 
 ### Intern      
-* Institute for Global Environmental Strategies (IGES), Hayama, Japan   Jun 2019 – Jul 2019
-* Microsoft Student Partner, Taipei, Taiwan Jun 2017 – Jun 2018
+* Institute for Global Environmental Strategies (IGES), Hayama, Japan. Jun 2019 – Jul 2019
+* Microsoft Student Partner, Taipei, Taiwan. Jun 2017 – Jun 2018
 
 
 Publications
@@ -63,11 +67,11 @@ Service and leadership
 ======
 ### Professional Service
 * AGU, Water and Society Technical Committee, Student Representatives, 2022-present
-* AGU, Hydrology Section Student Subcommittee, Professional Development Subcommittee co-chair, 2022 – present
+* AGU, Hydrology Section Student Subcommittee, Secretary, 2023 – present
 * ASCE, EWRI, Environmental and Water Resources System (EWRS) Committee, 2021-present
 
 ### Lehigh University
-* CEE Department Representatives for the Graduate Students Recruitment Program, 2021 – present
+* CEE Department Representatives for the Graduate Students Recruitment Program, 2021 – 2022
 * CEE Department Representatives for the Graduate Senate Meeting, 2021
 * Lehigh Graduate Open House CEE Representatives, 2021
 * Lehigh Mentor Collective, Mentor, 2021
@@ -80,5 +84,6 @@ Service and leadership
 * Science of the Total Environment – ELSEVIER
 * Environmental Modeling & Software – ScienceDirect
 * Ecology & Society – Resilience Alliance
+* Journal of Hydrology – ELSEVIER
 
 
