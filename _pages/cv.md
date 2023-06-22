@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download full CV](https://github.com/philip928lin/philip928lin.github.io/raw/main/files/CV_Chung-Yi Lin - 2023.pdf)
+[Download full CV](https://github.com/philip928lin/philip928lin.github.io/raw/main/files/CV_Chung_Yi_Lin.pdf)
 
 Education
 ======
