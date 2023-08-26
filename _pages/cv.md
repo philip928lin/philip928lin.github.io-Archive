@@ -16,27 +16,32 @@ Education
 * Ph.D in Civil & Environmental Engineering (CEE), January 2023
 
 ### National Taiwan University (NTU), Taipei, Taiwan
-* M.S. in Bioenvironmental Systems Engineering (BSE), February 2019 
-* B.S. in Bioenvironmental Systems Engineering (BSE), June 2017
+* M.S. in Bioenvironmental Systems Engineering, February 2019 
+* B.S. in Bioenvironmental Systems Engineering, June 2017
 
 Research experiences  
 ======                                                    
-### Themes
+### Thrusts & Interests
 
-##### Coupled Natural-Human Systems
-* Agent-based modeling, software development, uncertainty characterization
+##### Water management & governance
+* Human‑water systems, agent‑based modeling, uncertainty characterization, agricultural water allocation, groundwater management, nonpoint source pollution control, food‑energy‑water nexus
 
-##### Risk Assessment in Complex Adaptive Water Systems
-* Climate risks, food-water nexus, cyber-physical risks
+##### Water use science
+* Water use estimates, food and water security, large data analysis
 
-##### Cyber-Physical Systems & Infrastructure Resilience
-* IoT-based stormwater infrastructures, false data injection (cyber-attacks), optimization, control
+##### Water & disasters
+* Climate risk assessment, software development, disaster risk reduction
+
+##### Smart water systems
+* Smart stormwater systems, cyber‑physical risks (e.g., cyber‑attacks), model predictive control
 
 ### Postdoctoral Associate  
-*  Marston’s Research Group, VT. Feb 2023 – Present
+* Marston’s Research Group, Virginia Tech. Feb 2023 – Present
+Supervisor: Dr. Landon Marston
 
 ### Research Assistant    
-* Complex Adaptive Water Systems (CAWS) Lab., LU. Sep 2020 – Jan 2022
+* Complex Adaptive Water Systems (CAWS) Lab., Lehigh University. Aug 2019 – Jan 2023
+Advisor: Dr. Ethan Yang
 
 ### Intern      
 * Institute for Global Environmental Strategies (IGES), Hayama, Japan. Jun 2019 – Jul 2019
@@ -63,21 +68,19 @@ Teaching
   {% endfor %}</ul>
 -->
 
-Service and leadership
+Service
 ======
 ### Professional Service
 * AGU, Water and Society Technical Committee, Student Representatives, 2022-present
 * AGU, Hydrology Section Student Subcommittee, Secretary, 2023 – present
 * ASCE, EWRI, Environmental and Water Resources System (EWRS) Committee, 2021-present
 
-### Lehigh University
-* CEE Department Representatives for the Graduate Students Recruitment Program, 2021 – 2022
-* CEE Department Representatives for the Graduate Senate Meeting, 2021
-* Lehigh Graduate Open House CEE Representatives, 2021
-* Lehigh Mentor Collective, Mentor, 2021
-
-### National Taiwan University
-* Charter President of Climate Action Club, NTU, Sep 2014 – Dec 2015
+### University Service
+* CEE Department Representatives for the Graduate Students Recruitment Program, 2021 – 2022, LU
+* CEE Department Representatives for the Graduate Senate Meeting, 2021, LU
+* Lehigh Graduate Open House CEE Representatives, 2021, LU
+* Lehigh Mentor Collective, Mentor, 2021, LU
+* Charter President of Climate Action Club, NTU, Sep 2014 – Dec 2015, NTU
 
 ### Ad Hoc Reviewer – Journals
 * Journal of Water Resources Planning and Management – ASCE
@@ -85,5 +88,6 @@ Service and leadership
 * Environmental Modeling & Software – ScienceDirect
 * Ecology & Society – Resilience Alliance
 * Journal of Hydrology – ELSEVIER
+* PLOS Water – PLOS
 
 

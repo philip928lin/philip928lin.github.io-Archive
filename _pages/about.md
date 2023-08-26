@@ -5,12 +5,9 @@ excerpt: "About me"
 author_profile: true
 ---
 
-One of Chung-Yi's main research applications is agricultural water allocation, where he investigates how human behavior influences water allocation decisions and their impacts on the environment. He has also studied sediment management, which is crucial in preventing soil erosion and reducing water quality impacts.
+Chung-Yi Lin is a postdoctoral associate at Virginia Tech with expertise in water resources management, water systems analysis, and modeling of human-water systems. He holds a Ph.D. in Civil & Environmental Engineering from Lehigh University and M.S. in Bioenvironmental Systems Engineering from National Taiwan University.
 
-In addition to his research, Chung-Yi has developed open-source modeling software, such as HydroCNHS, to facilitate modeling complex adaptive water systems. He has also conducted uncertainty analysis to identify sources of uncertainty in the models and improve their usability in terms of informing policy.
+*Chung-Yi's research seeks to understand the driving forces and underlying mechanisms of co-evolved human-water systems, a fundamental prerequisite for effective, risk-based decision-making.* Through his research, Chung-Yi develops innovative methods and models to address complex water issues related to agriculture, food-energy systems, groundwater, stormwater systems, and disaster risk reduction. His work focuses on integrating human behaviors and decision-making into simulations to evaluate policy and technology interventions. Chung-Yi has published 6 journal articles and has 5 more in preparation. 
 
-Currently, Chung-Yi is working on community-based groundwater management using ABM. His research focuses on understanding how community behavior influences groundwater use and how management policies can be developed to promote sustainable groundwater use.
+At Virginia Tech, Chung-Yi teaches undergraduate courses and mentors graduate students. He is actively involved in professional service, reviewing papers and participating in committees for organizations like AGU Water and Society Technical Committee and AGU Hydrology Section Student Subcommittee. Chung-Yi combines strong computational skills with a passion for interdisciplinary collaboration to drive progress on pressing water challenges facing communities worldwide.
 
-Chung-Yi is also interested in IoT-based water systems, such as smart stormwater systems. He is developing smart control schema that quantifies cyber-physical risks and informs decision-making in water management.
-
-Overall, Chung-Yi's research aims to establish a more holistic framework for integrating long-term planning and short-term responses to inform policy in complex adaptive water systems. Through his work, he hopes to advance understanding of the interactions between natural and human systems and improve water resources management practices.
