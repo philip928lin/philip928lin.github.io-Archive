@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 ### Lehigh University (LU), Bethlehem, PA, USA
-* Ph.D in Civil & Environmental Engineering (CEE), January 2023
+* Ph.D in Civil Engineering (CE), January 2023
 
 ### National Taiwan University (NTU), Taipei, Taiwan
 * M.S. in Bioenvironmental Systems Engineering, February 2019 
@@ -23,16 +23,16 @@ Research experiences
 ======                                                    
 ### Thrusts & Interests
 
-##### Water management & governance
+#### Water management & governance
 * Human‑water systems, agent‑based modeling, uncertainty characterization, agricultural water allocation, groundwater management, nonpoint source pollution control, food‑energy‑water nexus
 
-##### Water use science
+#### Water use science
 * Water use estimates, food and water security, large data analysis
 
-##### Water & disasters
+#### Water & disasters
 * Climate risk assessment, software development, disaster risk reduction
 
-##### Smart water systems
+#### Smart water systems
 * Smart stormwater systems, cyber‑physical risks (e.g., cyber‑attacks), model predictive control
 
 ### Postdoctoral Associate  
