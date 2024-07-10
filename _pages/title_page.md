@@ -27,7 +27,7 @@ feature_row:
     url: "https://github.com/philip928lin"
     btn_label: "Github"
     btn_class: "btn--primary"
-    excerpt: "* HydroCNHS\n* MultiWG\n* PyRAMID"
+    excerpt: "* HydroCNHS\n* MultiWG\n* PyCHAMP"
 ---
 
 {% include feature_row id="intro" type="center" %}
