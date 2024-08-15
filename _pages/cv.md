@@ -36,7 +36,11 @@ Research experiences
 * Smart stormwater systems, cyber‑physical risks (e.g., cyber‑attacks), model predictive control
 
 ### Postdoctoral Associate  
-* Marston’s Research Group, Virginia Tech. Feb 2023 – Present
+* Reed’s Research Group, Cornell. Aug 2024 – Present
+Supervisor: Dr. Patrick Reed
+
+### Postdoctoral Associate  
+* Marston’s Research Group, Virginia Tech. Feb 2023 – Aug 2024
 Supervisor: Dr. Landon Marston
 
 ### Research Assistant    
@@ -72,8 +76,8 @@ Service
 ======
 ### Professional Service
 * AGU, Water and Society Technical Committee, Student Representatives, 2022-present
-* AGU, Hydrology Section Student Subcommittee, Secretary, 2023 – present
 * ASCE, EWRI, Environmental and Water Resources System (EWRS) Committee, 2021-present
+* AGU, Hydrology Section Student Subcommittee, Secretary, 2023
 
 ### University Service
 * CEE Department Representatives for the Graduate Students Recruitment Program, 2021 – 2022, LU
